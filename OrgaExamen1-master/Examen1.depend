@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1415284265 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Examen/Evaluador.cpp
+	"Evaluador.h"
+
+1415231530 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Examen/Evaluador.h
+	"Monstruo.h"
+	<iostream>
+	<queue>
+
+1415229178 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Examen/Mascota.h
+	<iostream>
+	<list>
+	<fstream>
+
+1415229220 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Examen/Mascota.cpp
+	"Mascota.h"
+
+1415284313 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Examen/main.cpp
+	"Monstruo.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+	<fstream>
+
+1415231553 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Examen/Monstruo.h
+	<iostream>
+	<list>
+	<fstream>
+
+1415231536 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Examen/Monstruo.cpp
+	"Monstruo.h"
+
+1415277228 source:c:\users\usuario1\desktop\orgaexamen1-master\orgaexamen1-master\evaluador.cpp
+	"Evaluador.h"
+
+1415277228 c:\users\usuario1\desktop\orgaexamen1-master\orgaexamen1-master\evaluador.h
+	"Monstruo.h"
+	<iostream>
+	<queue>
+
+1415277228 c:\users\usuario1\desktop\orgaexamen1-master\orgaexamen1-master\monstruo.h
+	<iostream>
+	<list>
+	<fstream>
+
+1415287738 source:c:\users\usuario1\desktop\orgaexamen1-master\orgaexamen1-master\main.cpp
+	"Monstruo.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+	<fstream>
+
+1415277228 source:c:\users\usuario1\desktop\orgaexamen1-master\orgaexamen1-master\monstruo.cpp
+	"Monstruo.h"
+
